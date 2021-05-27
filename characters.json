@@ -229,5 +229,16 @@
 				"name": "ケイ・ダッシュ"
 			}
 		]
+	},
+	{
+		"name": "Mary",
+		"repository": "",
+		"movelist": "mary.json",
+		"names": [
+			{
+				"region": "japan",
+				"name": "ブルー・マリー"
+			}
+		]
 	}
 ]
